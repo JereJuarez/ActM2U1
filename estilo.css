@@ -1,0 +1,50 @@
+#titulo{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: black;
+    /* font-family: 'Roboto Slab', serif;*/
+    font-family: 'roboto slab';
+    text-shadow: -2px -1px 14px rgba(35,80,24,1);
+    
+}
+
+#carrera{
+    text-align: center;
+    font-size: 27px;
+    color: white;
+    background-color: rgb(4, 70, 4);
+    border-radius: 73px 70px 74px 72px;
+    -webkit-border-radius: 73px 70px 74px 72px;
+    -moz-border-radius: 73px 70px 74px 72px;
+    border: 10px solid #000000;
+}
+
+#mifoto{
+    text-align: center;
+}
+
+h3{
+    font-family: Arial;
+    text-decoration: underline;
+    font-size: 27px;
+}
+
+ul{
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+p{
+    font-size: 28px;
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255)
+}
+
+#c{
+    background-color: rgb(4, 70, 4);
+    color: white;
+    font-size: 22px;
+    border-radius: 5px;
+}
+
